@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CucumberRunner" tests="3" skipped="3" failures="0" errors="0" timestamp="2019-12-21T19:50:34" hostname="Almass-MacBook-Pro.local" time="0.02">
+  <properties/>
+  <testcase name="scenario[0](&quot;Existing user sign up&quot;, &quot;Sign Up Feature&quot;)" classname="CucumberRunner" time="0.012">
+    <skipped/>
+  </testcase>
+  <testcase name="scenario[1](&quot;Existing user sign up&quot;, &quot;Sign Up Feature&quot;)" classname="CucumberRunner" time="0.003">
+    <skipped/>
+  </testcase>
+  <testcase name="scenario[2](&quot;Existing user sign up&quot;, &quot;Sign Up Feature&quot;)" classname="CucumberRunner" time="0.004">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

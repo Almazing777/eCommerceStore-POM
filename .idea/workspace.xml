@@ -2,33 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94f05068-1035-4816-914e-ad6ab357fefc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HomePageTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SignUpTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CucumberRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/SignUpStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/signUp.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/AdvancedTechniques.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/BaseTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/ProductListedPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/SignUp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/test/Regression.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/test/Smoke.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/resources/test/TestNG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/TestNG.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/AdvancedTechniques.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ProductListedPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SignUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/SignUpPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/Regression.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/Smoke.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/chromedriver" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/TestNG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/TestNG.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,24 +63,26 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/test/resources" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/resources" />
       <recent name="$PROJECT_DIR$/src/test/java" />
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG./Users/Almas/Documents/eCommercePOM/src/test/resources/TestNG.xml">
-    <configuration name="AdvancedTechniquesTests.mouseHover" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.CucumberRunner">
+    <configuration name="CucumberRunner" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;AdvancedTechniquesTests.mouseHover&quot;" />
+        <option name="scriptParameters" value="--tests &quot;CucumberRunner&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -107,12 +97,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="HomePageTests.GetVerifiedTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="CucumberRunner.scenario" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;HomePageTests.GetVerifiedTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;CucumberRunner.scenario&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -226,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.CucumberRunner" />
+        <item itemvalue="Gradle.CucumberRunner.scenario" />
+        <item itemvalue="Gradle.SignUpTests.signUpSuccess" />
         <item itemvalue="TestNG./Users/Almas/Documents/eCommercePOM/src/test/resources/TestNG.xml" />
         <item itemvalue="Gradle.SignUpTests.signUpWrongEmail" />
-        <item itemvalue="Gradle.SignUpTests.signUpSuccess" />
-        <item itemvalue="Gradle.AdvancedTechniquesTests.mouseHover" />
-        <item itemvalue="Gradle.HomePageTests.GetVerifiedTest" />
       </list>
     </recent_temporary>
   </component>
@@ -268,22 +258,22 @@
       <screen x="0" y="23" width="1680" height="976" />
     </state>
     <state x="853" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.976@0.23.1680.976" timestamp="1575768477060" />
-    <state width="971" height="250" key="GridCell.Tab.0.bottom" timestamp="1575769088428">
+    <state width="889" height="250" key="GridCell.Tab.0.bottom" timestamp="1576957851335">
       <screen x="0" y="23" width="1680" height="976" />
     </state>
-    <state width="971" height="250" key="GridCell.Tab.0.bottom/0.23.1680.976@0.23.1680.976" timestamp="1575769088428" />
-    <state width="971" height="250" key="GridCell.Tab.0.center" timestamp="1575769088427">
+    <state width="889" height="250" key="GridCell.Tab.0.bottom/0.23.1680.976@0.23.1680.976" timestamp="1576957851335" />
+    <state width="889" height="250" key="GridCell.Tab.0.center" timestamp="1576957851334">
       <screen x="0" y="23" width="1680" height="976" />
     </state>
-    <state width="971" height="250" key="GridCell.Tab.0.center/0.23.1680.976@0.23.1680.976" timestamp="1575769088427" />
-    <state width="971" height="250" key="GridCell.Tab.0.left" timestamp="1575769088427">
+    <state width="889" height="250" key="GridCell.Tab.0.center/0.23.1680.976@0.23.1680.976" timestamp="1576957851334" />
+    <state width="889" height="250" key="GridCell.Tab.0.left" timestamp="1576957851334">
       <screen x="0" y="23" width="1680" height="976" />
     </state>
-    <state width="971" height="250" key="GridCell.Tab.0.left/0.23.1680.976@0.23.1680.976" timestamp="1575769088427" />
-    <state width="971" height="250" key="GridCell.Tab.0.right" timestamp="1575769088428">
+    <state width="889" height="250" key="GridCell.Tab.0.left/0.23.1680.976@0.23.1680.976" timestamp="1576957851334" />
+    <state width="889" height="250" key="GridCell.Tab.0.right" timestamp="1576957851335">
       <screen x="0" y="23" width="1680" height="976" />
     </state>
-    <state width="971" height="250" key="GridCell.Tab.0.right/0.23.1680.976@0.23.1680.976" timestamp="1575769088428" />
+    <state width="889" height="250" key="GridCell.Tab.0.right/0.23.1680.976@0.23.1680.976" timestamp="1576957851335" />
     <state width="744" height="309" key="GridCell.Tab.1.bottom" timestamp="1575767639359">
       <screen x="0" y="23" width="1680" height="976" />
     </state>
@@ -304,6 +294,10 @@
       <screen x="0" y="23" width="1680" height="976" />
     </state>
     <state x="856" y="241" key="IDE.errors.dialog/0.23.1680.976@0.23.1680.976" timestamp="1575746967714" />
+    <state x="676" y="130" key="SettingsEditor" timestamp="1576355635304">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state x="676" y="130" key="SettingsEditor/0.23.1680.976@0.23.1680.976" timestamp="1576355635304" />
     <state x="1035" y="118" key="refactoring.ChangeSignatureDialog" timestamp="1575699673341">
       <screen x="0" y="23" width="1680" height="976" />
     </state>
